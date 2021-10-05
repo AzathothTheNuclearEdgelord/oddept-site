@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="564d4147-0e9e-4df0-9c60-39428ced0285" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1y4wooOCfb8r8Ygpz6eWOaZQ0YZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="564d4147-0e9e-4df0-9c60-39428ced0285" name="Default Changelist" comment="" />
+      <created>1631524346278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631524346278</updated>
+      <workItem from="1631524347702" duration="1427000" />
+      <workItem from="1631615140461" duration="3285000" />
+      <workItem from="1631646309515" duration="1699000" />
+      <workItem from="1631727918256" duration="595000" />
+      <workItem from="1631819799838" duration="2693000" />
+      <workItem from="1631911997963" duration="5149000" />
+      <workItem from="1632074199637" duration="2776000" />
+      <workItem from="1632124312567" duration="3818000" />
+      <workItem from="1632729999693" duration="9790000" />
+      <workItem from="1633211497662" duration="1189000" />
+      <workItem from="1633267945904" duration="1195000" />
+      <workItem from="1633333124190" duration="1110000" />
+      <workItem from="1633358452606" duration="6740000" />
+      <workItem from="1633433753201" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="222" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1631524472085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="222" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1631524472085" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1632125119403">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1632125119403" />
+    <state x="498" y="178" width="672" height="538" key="search.everywhere.popup" timestamp="1632124767751">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1631825477270" />
+    <state x="498" y="178" width="672" height="538" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1632124767751" />
+  </component>
+</project>
